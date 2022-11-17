@@ -1,0 +1,119 @@
+[[PHYLIP]]
+arch = "aarch64"
+git-tree-sha1 = "5149c034adb82318c477ad8c25925be49ff1e4dc"
+libc = "glibc"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "781364d00fb41d21d79fc667012e6ed9699dc87cb72ad4df6fdf33764243e730"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.aarch64-linux-gnu.tar.gz"
+[[PHYLIP]]
+arch = "aarch64"
+git-tree-sha1 = "ceb8b5d93f645ecb6a888a917caffc7c24ccec01"
+libc = "musl"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "8522075524bfc36313bd61c5605dfc0a1756f14deaad9f28063f0f771cf14d06"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.aarch64-linux-musl.tar.gz"
+[[PHYLIP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "766f1404a6f865150bde36cdd5450527defee86b"
+libc = "glibc"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "448a6deebf2efd5baae967f7e9196d38a44808ce7bd8299bdcf666488c0ecfb2"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.armv6l-linux-gnueabihf.tar.gz"
+[[PHYLIP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "99164eeb67e5c22819be93449c8dcbd7dc22aeca"
+libc = "musl"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "adb63184fa8a44dc6ff03bf759c87a883b630231aa1e0e2772a93cdd8342e3f3"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.armv6l-linux-musleabihf.tar.gz"
+[[PHYLIP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ffe559073cf0d2049a33d396bfa9464fa1a71ff6"
+libc = "glibc"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "c29f50386adcef087f5aadaf6fe548c70b02466b3592bcb6e1cd26513ec13c67"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.armv7l-linux-gnueabihf.tar.gz"
+[[PHYLIP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ea0c3180e5ffeecf5382f8a9c037c3120064d76"
+libc = "musl"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "134f38384f21e5d99e9364f438634b9e03c28ec46ce3b6c7c94207ba8ae40637"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.armv7l-linux-musleabihf.tar.gz"
+[[PHYLIP]]
+arch = "i686"
+git-tree-sha1 = "0498191e58f692a2348daf63a26c6b1f688b0d23"
+libc = "glibc"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "29684d9da26cc8ebefd2c219341877e964eebed8197ed9bd5e768491ae4401ee"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.i686-linux-gnu.tar.gz"
+[[PHYLIP]]
+arch = "i686"
+git-tree-sha1 = "e9a8f4e9bd31ec4c1eeb1522e0d7b1679e55e1c6"
+libc = "musl"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "3742b0d8fabf9131d53498c661ebb1139440c20d9d360535f7472581dfa6d1c6"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.i686-linux-musl.tar.gz"
+[[PHYLIP]]
+arch = "i686"
+git-tree-sha1 = "640a189ac43de89d219cd6130b7af135e79b78f1"
+os = "windows"
+
+    [[PHYLIP.download]]
+    sha256 = "2e099085bfc6c901c92294e9104b49d678639000cc3020c5e9779e546fb7ae11"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.i686-w64-mingw32.tar.gz"
+[[PHYLIP]]
+arch = "powerpc64le"
+git-tree-sha1 = "73c01f7a1d808d2bc03259271e62353ae8b34395"
+libc = "glibc"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "6b97734b41a7e8a69ac9629a8d48a572d84b786c899d21ae041b5ac28c047ae9"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.powerpc64le-linux-gnu.tar.gz"
+[[PHYLIP]]
+arch = "x86_64"
+git-tree-sha1 = "a6c73e4909d8609cd371477115ad95d87071f26b"
+libc = "glibc"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "f7fe8ce5de25b50047fe5fb3f97d17022f08c8a2a09da08de2a9cdc00ea03ccf"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.x86_64-linux-gnu.tar.gz"
+[[PHYLIP]]
+arch = "x86_64"
+git-tree-sha1 = "65882cdf774e41594e18088ba1e4b8666883e843"
+libc = "musl"
+os = "linux"
+
+    [[PHYLIP.download]]
+    sha256 = "c04b3babe80d4c3a6d38235ae1f99652eec3dcfc86016d5b3a4b5d480ec79f0d"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.x86_64-linux-musl.tar.gz"
+[[PHYLIP]]
+arch = "x86_64"
+git-tree-sha1 = "c335ea14431d10c626388d9f3c5ce6492227545e"
+os = "windows"
+
+    [[PHYLIP.download]]
+    sha256 = "45a51c04465a6bf5ec97bb3e89b411990e9b132290d72110fa01fccbffeaeeed"
+    url = "https://github.com/JuliaBinaryWrappers/PHYLIP_jll.jl/releases/download/PHYLIP-v3.697.0+0/PHYLIP.v3.697.0.x86_64-w64-mingw32.tar.gz"
